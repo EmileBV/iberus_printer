@@ -1,0 +1,41 @@
+STEP translation to Solid Edge
+Date: Saturday,April 15,2023 04:58PM
+Source File: D:\Personal Projects\Duet3MiniPrinter\Duet3ToolBoard1LC\Duet3_TB_1LC.step
+Author: Pcbnew
+Organization: Kicad
+Source System: KiCad to STEP converter
+
+Hardware:
+Processor: AMD Ryzen 7 5800H with Radeon Graphics         
+Operating System: Windows 10 Professional
+Installed Memory: 15.85 GB
+
+Software Information
+Parasolid Version: 32.1.222
+PSBodyShop Version: 32.1.94
+Step Adapter Version: 5.0.107
+Solid Edge Version: 221.00.03.003 x64
+
+Step Import Options
+Import Faceted Bodies: On
+Import Check Bodies: Off
+Import Curves: On
+Import DoNotSave: On
+Import Multiple Bodies As Single Part File: On
+Import Stitch Surfaces: On
+Import Boolean Solids: On
+Make Base Feature: On
+Simplify Geometry: On
+Import Imprint Curves: On
+Import Drive: C:
+Import Stitch Surfaces: On
+Import Surfaces: On
+Import Output Path: D:\Personal Projects\Duet3MiniPrinter\Duet3ToolBoard1LC
+Import Enable Default Output Path: On
+Import PMI: Off
+Import As Internal Components: Off
+Import Path: 
+
+Translating to Parasolid data types...
+Translation process completed
+Total time required to translate and post process:00 : 00 : 23

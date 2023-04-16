@@ -14,3 +14,5 @@ General design intentions:
   - Examples: Y carriage fixed on left side but slotted on right side, bed kinematic coupling
 - Electonics not mounted on the bottom of the printer
   - A heavy machine like a 3D printer should not need to flipped on its side to do maintenance
+
+Note on the "iberus" name: it's a genus of land snails that have a flat shell. I thought it matched the overall design of having everything referenced to a flat top.

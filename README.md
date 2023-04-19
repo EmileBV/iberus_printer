@@ -1,6 +1,10 @@
 # iberus_printer
 a 3D printer designed to avoid shortcomings I've observed on the most popular kit 3D printers
 
+![iberus wip](./img/iberus.png "current progress of the project")
+
+![iberus gantry](./img/belt_paths.png "minimal footprint belt paths")
+
 Very much a work in progress, everything will change as I improve the design and reach optimized implementations of all the ideas I wish to put in this machine.
 
 General design intentions:

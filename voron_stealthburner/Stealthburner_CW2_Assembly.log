@@ -1,0 +1,209 @@
+STEP translation to Solid Edge
+Date: Saturday,April 22,2023 02:15PM
+Source File: D:\Personal Projects\iberus_printer\voron_stealthburner\Stealthburner_CW2_Assembly.stp
+Author: Wile.e
+Organization: Unknown
+Source System: Autodesk Inventor 2023
+
+Hardware:
+Processor: AMD Ryzen 7 5800H with Radeon Graphics         
+Operating System: Windows 10 Professional
+Installed Memory: 15.85 GB
+
+Software Information
+Parasolid Version: 32.1.222
+PSBodyShop Version: 32.1.94
+Step Adapter Version: 5.0.107
+Solid Edge Version: 221.00.03.003 x64
+
+Step Import Options
+Import Faceted Bodies: On
+Import Check Bodies: Off
+Import Curves: On
+Import DoNotSave: On
+Import Multiple Bodies As Single Part File: On
+Import Stitch Surfaces: On
+Import Boolean Solids: On
+Make Base Feature: On
+Simplify Geometry: On
+Import Imprint Curves: On
+Import Drive: C:
+Import Stitch Surfaces: On
+Import Surfaces: On
+Import Output Path: D:\Personal Projects\iberus_printer\voron_stealthburner
+Import Enable Default Output Path: On
+Import PMI: Off
+Import As Internal Components: Off
+Import Path: 
+
+Translating to Parasolid data types...
++Begin Assembly: 1
++Created SE Assembly File D:\Personal Projects\iberus_printer\voron_stealthburner\Stealthburner_CW2_Assembly.asm
+|--+Begin Assembly: 2
+|--+Created SE Assembly File D:\Personal Projects\iberus_printer\voron_stealthburner\Stealthburner Assembly - Release.asm
+|  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\stealthburner_body.par
+|  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\rgbw_led_pcb.par
+|  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\led_diffuser.par
+|  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\led_diffuser_mask.par
+|  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\led_carrier.par
+|  |--+Begin Assembly: 3
+|  |--+Created SE Assembly File D:\Personal Projects\iberus_printer\voron_stealthburner\5015 model.asm
+|  |  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\5015_turbine.par
+|  |  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\5015_fan_housing_rear.par
+|  |--+Total Parts: 4
+|  |--+Assemblies: 0
+|  |--+Solid Bodies: 4
+|  |--+Sheet Bodies: 0
+|  |--+End Assembly: 3
+|  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\4010_axial_fan.par
+|  |--+Reusing File D:\Personal Projects\iberus_printer\voron_stealthburner\rgbw_led_pcb.par
+|  |--+Reusing File D:\Personal Projects\iberus_printer\voron_stealthburner\rgbw_led_pcb.par
+|  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\M3x25 SHCS.par
+|  |--+Reusing File D:\Personal Projects\iberus_printer\voron_stealthburner\M3x25 SHCS.par
+|  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\M3 x 50 SHCS.par
+|  |--+Reusing File D:\Personal Projects\iberus_printer\voron_stealthburner\M3 x 50 SHCS.par
+|  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\M3x6 FHCS.par
+|  |--+Reusing File D:\Personal Projects\iberus_printer\voron_stealthburner\M3x6 FHCS.par
+|--+Total Parts: 76
+|--+Assemblies: 1
+|--+Solid Bodies: 75
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File D:\Personal Projects\iberus_printer\voron_stealthburner\CW2 Revised Guidler Assembly.asm
+|  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\main_body.par
+|  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\motor_plate.par
+|  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\cable_cover.par
+|  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\cable_cover_for_pcb.par
+|  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\chain_anchor_2hole.par
+|  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\chain_anchor_2hole_sw.par
+|  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\chain_anchor_3hole_sw.par
+|  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\CW2 chain anchor (3-hole).par
+|  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\guilder_a.par
+|  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\guidler_b.par
+|  |--+Begin Assembly: 3
+|  |--+Created SE Assembly File D:\Personal Projects\iberus_printer\voron_stealthburner\BMG_Drivegear_without_setscrew.asm
+|  |  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\Shaft 3x20.par
+|  |  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\K3x5x7 Needlebearing.par
+|  |  |--+Reusing File D:\Personal Projects\iberus_printer\voron_stealthburner\K3x5x7 Needlebearing.par
+|  |  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\Idler Gear.par
+|  |--+Total Parts: 22
+|  |--+Assemblies: 0
+|  |--+Solid Bodies: 22
+|  |--+Sheet Bodies: 0
+|  |--+End Assembly: 3
+|  |--+Begin Assembly: 3
+|  |--+Created SE Assembly File D:\Personal Projects\iberus_printer\voron_stealthburner\Driveshaft Assembly (1).asm
+|  |  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\BMG 50T Shaft Assembly.par
+|  |  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\MR825 Ballbearing 5x8x2.par
+|  |  |--+Reusing File D:\Personal Projects\iberus_printer\voron_stealthburner\MR825 Ballbearing 5x8x2.par
+|  |  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\BMG Drive Gear.par
+|  |  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\M3x2 Setscrew.par
+|  |--+Total Parts: 11
+|  |--+Assemblies: 0
+|  |--+Solid Bodies: 11
+|  |--+Sheet Bodies: 0
+|  |--+End Assembly: 3
+|  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\Latch.par
+|  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\latch_shuttle.par
+|  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\M3x30 SHCS.par
+|  |--+Reusing File D:\Personal Projects\iberus_printer\voron_stealthburner\M3x25 SHCS.par
+|  |--+Reusing File D:\Personal Projects\iberus_printer\voron_stealthburner\M3x25 SHCS.par
+|  |--+Reusing File D:\Personal Projects\iberus_printer\voron_stealthburner\M3x25 SHCS.par
+|  |--+Reusing File D:\Personal Projects\iberus_printer\voron_stealthburner\M3x25 SHCS.par
+|  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\M3x20 SHCS.par
+|  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\M3x16 SHCS.par
+|  |--+Reusing File D:\Personal Projects\iberus_printer\voron_stealthburner\M3x16 SHCS.par
+|  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\M3x10 SHCS.par
+|  |--+Reusing File D:\Personal Projects\iberus_printer\voron_stealthburner\M3x10 SHCS.par
+|  |--+Reusing File D:\Personal Projects\iberus_printer\voron_stealthburner\M3x6 FHCS.par
+|  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\M3x8 SHCS.par
+|  |--+Reusing File D:\Personal Projects\iberus_printer\voron_stealthburner\M3x8 SHCS.par
+|  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\M3x6 BHCS.par
+|  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\M3 Washer.par
+|  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\M3 Threaded Insert.par
+|  |--+Reusing File D:\Personal Projects\iberus_printer\voron_stealthburner\M3 Threaded Insert.par
+|  |--+Reusing File D:\Personal Projects\iberus_printer\voron_stealthburner\M3 Threaded Insert.par
+|  |--+Reusing File D:\Personal Projects\iberus_printer\voron_stealthburner\M3 Threaded Insert.par
+|  |--+Reusing File D:\Personal Projects\iberus_printer\voron_stealthburner\M3 Threaded Insert.par
+|  |--+Reusing File D:\Personal Projects\iberus_printer\voron_stealthburner\M3 Threaded Insert.par
+|  |--+Reusing File D:\Personal Projects\iberus_printer\voron_stealthburner\M3 Threaded Insert.par
+|  |--+Reusing File D:\Personal Projects\iberus_printer\voron_stealthburner\M3 Threaded Insert.par
+|  |--+Reusing File D:\Personal Projects\iberus_printer\voron_stealthburner\M3 Threaded Insert.par
+|  |--+Reusing File D:\Personal Projects\iberus_printer\voron_stealthburner\M3 Threaded Insert.par
+|  |--+Reusing File D:\Personal Projects\iberus_printer\voron_stealthburner\M3 Threaded Insert.par
+|  |--+Reusing File D:\Personal Projects\iberus_printer\voron_stealthburner\M3 Threaded Insert.par
+|  |--+Reusing File D:\Personal Projects\iberus_printer\voron_stealthburner\M3 Threaded Insert.par
+|  |--+Reusing File D:\Personal Projects\iberus_printer\voron_stealthburner\M3 Threaded Insert.par
+|  |--+Reusing File D:\Personal Projects\iberus_printer\voron_stealthburner\M3 Threaded Insert.par
+|  |--+Reusing File D:\Personal Projects\iberus_printer\voron_stealthburner\M3 Threaded Insert.par
+|  |--+Reusing File D:\Personal Projects\iberus_printer\voron_stealthburner\M3 Threaded Insert.par
+|  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\M3 Nylon Washer.par
+|  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\pcb_spacer.par
+|  |--+Begin Assembly: 3
+|  |--+Created SE Assembly File D:\Personal Projects\iberus_printer\voron_stealthburner\BMG Thumbscrew & Spring Assembly.asm
+|  |  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\M3 Thumb Screw.par
+|  |  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\Spring 6x4x12.par
+|  |--+Total Parts: 6
+|  |--+Assemblies: 0
+|  |--+Solid Bodies: 6
+|  |--+Sheet Bodies: 0
+|  |--+End Assembly: 3
+|  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\Nema14 Stepper - 20mm.par
+|--+Total Parts: 75
+|--+Assemblies: 3
+|--+Solid Bodies: 72
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File D:\Personal Projects\iberus_printer\voron_stealthburner\ADXL_Assembly - Generic.asm
+|  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\adxl_mount_generic_15.5_hole_c-c.par
+|  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\adxl345_sensor_generic.par
+|  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\adxl_screw_spacer.par
+|  |--+Reusing File D:\Personal Projects\iberus_printer\voron_stealthburner\adxl_screw_spacer.par
+|  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\M2x10 Self-Tapping Screw.par
+|  |--+Reusing File D:\Personal Projects\iberus_printer\voron_stealthburner\M2x10 Self-Tapping Screw.par
+|  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\M3x12 SHCS.par
+|  |--+Reusing File D:\Personal Projects\iberus_printer\voron_stealthburner\M3x12 SHCS.par
+|--+Total Parts: 31
+|--+Assemblies: 0
+|--+Solid Bodies: 31
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File D:\Personal Projects\iberus_printer\voron_stealthburner\SB TOOLHEAD-Revo Voron.asm
+|  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\Toolhead Revo Voron Rear.par
+|  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\Toolhead Revo Voron Front.par
+|  |--+Begin Assembly: 3
+|  |--+Created SE Assembly File D:\Personal Projects\iberus_printer\voron_stealthburner\P6 Assembly (RevC).asm
+|  |  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\Revo Voron Heatsink.par
+|  |  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\Revo Heater and Nozzle.par
+|  |  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\Revo Spring.par
+|  |--+Total Parts: 24
+|  |--+Assemblies: 0
+|  |--+Solid Bodies: 24
+|  |--+Sheet Bodies: 0
+|  |--+End Assembly: 3
+|  |--+Reusing File D:\Personal Projects\iberus_printer\voron_stealthburner\M3x8 SHCS.par
+|  |--+Reusing File D:\Personal Projects\iberus_printer\voron_stealthburner\M3x8 SHCS.par
+|  |--+Reusing File D:\Personal Projects\iberus_printer\voron_stealthburner\M3x8 SHCS.par
+|  |--+Reusing File D:\Personal Projects\iberus_printer\voron_stealthburner\M3x8 SHCS.par
+|  |--+Created SE Part File D:\Personal Projects\iberus_printer\voron_stealthburner\PTFE Tube - 30.8mm.par
+|  |--+Reusing File D:\Personal Projects\iberus_printer\voron_stealthburner\M3x16 SHCS.par
+|  |--+Reusing File D:\Personal Projects\iberus_printer\voron_stealthburner\M3x16 SHCS.par
+|  |--+Reusing File D:\Personal Projects\iberus_printer\voron_stealthburner\M3 Threaded Insert.par
+|  |--+Reusing File D:\Personal Projects\iberus_printer\voron_stealthburner\M3 Threaded Insert.par
+|  |--+Reusing File D:\Personal Projects\iberus_printer\voron_stealthburner\M3 Threaded Insert.par
+|  |--+Reusing File D:\Personal Projects\iberus_printer\voron_stealthburner\M3 Threaded Insert.par
+|--+Total Parts: 17
+|--+Assemblies: 1
+|--+Solid Bodies: 16
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
++Total Parts: 4
++Assemblies: 4
++Solid Bodies: 0
++Sheet Bodies: 0
++End Assembly: 1
+Translation process completed
+Total time required to translate and post process:00 : 00 : 23
